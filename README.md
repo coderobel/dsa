@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/coderobel/dsa/tree/master/0412-fizz-buzz) |
+| [2812-find-the-maximum-achievable-number](https://github.com/coderobel/dsa/tree/master/2812-find-the-maximum-achievable-number) |
 ## String
 |  |
 | ------- |
